@@ -1,0 +1,28 @@
+HIERARCHY
+ROOT Root
+{
+	OFFSET	0.00	0.00	0.00
+	CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+	JOINT Link1
+	{
+		OFFSET	 1.00	 1.00	 0.00		
+		CHANNELS 3 Zrotation Xrotation Yrotation
+		{	
+			JOINT Link2
+			{
+				OFFSET	 1.00	 0.00	 0.00		
+				CHANNELS 3 Zrotation Xrotation Yrotation
+				{
+					
+					End Site 
+					{
+						OFFSET	 1.00	 0.00	 0.00
+					}
+
+				}
+			}
+		}
+	}
+	
+}
+	
