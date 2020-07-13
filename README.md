@@ -7,6 +7,6 @@ The user is able to toggle between the wireframe and solid view.
 
 
 #note to reader
-Due to a change in the code I had done before the submission, the display function is broken but the values being printed in the command is the working of the CCD IK algorithm.
+Display function is broken but algorithm can be verified with the printed values in terminal
 If there is a copyerror display, untick the Shadow Build checkbox in the Projects-> Build
 
