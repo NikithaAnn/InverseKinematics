@@ -124,11 +124,11 @@ private:
 */
 #ifndef NGLSCENE_H__
 #define NGLSCENE_H__
-#include <ngl/Camera.h>
-#include <ngl/Colour.h>
-#include <ngl/Light.h>
-#include <ngl/Text.h>
-#include <ngl/Transformation.h>
+//#include <ngl/Camera.h>
+//#include <ngl/Colour.h>
+//#include <ngl/Light.h>
+//#include <ngl/Text.h>
+//#include <ngl/Transformation.h>
 #include <QOpenGLWindow>
 #include <QOpenGLWidget>
 #include <memory>
