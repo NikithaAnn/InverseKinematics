@@ -22,3 +22,7 @@ The user is able to toggle between the wireframe and solid view.
 ## Help
 If there is a copyerror display, untick the Shadow Build checkbox in the Projects-> Build
 
+
+## Requirements
+Project requires Qtcreator and C++ with NGL(University Graphics Library)
+
